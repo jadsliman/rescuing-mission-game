@@ -16,7 +16,7 @@ Each level contains goals you have to achieve and monsters you have to fight in 
 - 3D models are made with Blender
 
 ## 🚀 How to play
-This game will be available soon on itch.io and other websites, but you can get the project and try it now on your unity engine if you want.
+This game will be available soon on itch.io and other websites, but you can get the project and try it now on your unity editor if you want.
 
 ## 📸 Screenshots
 <img width="4267" height="2084" alt="Graphic" src="https://github.com/user-attachments/assets/5b321647-c77b-455e-af40-c7f097d97575" />
