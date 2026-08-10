@@ -3,7 +3,7 @@
 A mobile game that combines 3D Puzzles with 2D turn-based fights.
 ## 🎮 About
 This game is about a wizard who is trying to find his chicks (He lives in an empty world with them by a mistake he made), each chick is in a different biome, each biome has several levels and you can choose your own way through the biomes.
-Each level contain goal you have to achieve and monsters you have to fight in 2D pixel art fights, rescue the chicks and fight the bosses to see what happens in the end depending on your choices.
+Each level contains goals you have to achieve and monsters you have to fight in 2D pixel art fights, rescue the chicks and fight the bosses to see what happens in the end depending on your choices.
 
 ## 💫 Features
 - 3D puzzles
