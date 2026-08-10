@@ -15,7 +15,7 @@ Each level contains goals you have to achieve and monsters you have to fight in 
 - 2D Sprites and animations are made with Asprite
 - 3D models are made with Blender
 
-## 🚀 How to play
+## 🚀 How to Play
 This game will be available soon on itch.io and other websites, but you can get the project and try it now on your unity editor if you want.
 
 ## 📸 Screenshots
